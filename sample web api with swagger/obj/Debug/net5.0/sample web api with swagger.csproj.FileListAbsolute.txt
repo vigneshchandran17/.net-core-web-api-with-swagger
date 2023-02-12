@@ -1,0 +1,29 @@
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\appsettings.Development.json
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\appsettings.json
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\sample web api with swagger.exe
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\sample web api with swagger.deps.json
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\sample web api with swagger.runtimeconfig.json
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\sample web api with swagger.runtimeconfig.dev.json
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\sample web api with swagger.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\ref\sample web api with swagger.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\sample web api with swagger.pdb
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.csproj.AssemblyReference.cache
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.AssemblyInfoInputs.cache
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.AssemblyInfo.cs
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.csproj.CoreCompileInputs.cache
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.MvcApplicationPartsAssemblyInfo.cs
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.MvcApplicationPartsAssemblyInfo.cache
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\staticwebassets\sample web api with swagger.StaticWebAssets.Manifest.cache
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\staticwebassets\sample web api with swagger.StaticWebAssets.xml
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\scopedcss\bundle\sample web api with swagger.styles.css
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.RazorTargetAssemblyInfo.cache
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.csproj.CopyComplete
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\ref\sample web api with swagger.dll
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.pdb
+D:\Play Ground\.Net Core With Swagger\sample web api with swagger\sample web api with swagger\obj\Debug\net5.0\sample web api with swagger.genruntimeconfig.cache
